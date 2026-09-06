@@ -1,1 +1,6 @@
-
+flask
+iqoptionapi @ git+https://github.com/iqoptionapi/iqoptionapi.git
+websocket-client==0.56
+pandas
+mplfinance
+gunicorn
